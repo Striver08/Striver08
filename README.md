@@ -5,6 +5,7 @@
 -->
 Here are some ideas to get you started:
 - 😄 I’m currently pursuing my pre final year of Bachelor's degree in Electronics and Communication Engineering at JIIT;
+- 😄 Full Stack Developer Intern @ VCBay
 - 🔭 I’m currently working on React.JS, Node.JS and Python
 - 🌱 I’m currently learning Node.JS 
 - 🔭 GSSOC'21 Open Source Contributor
